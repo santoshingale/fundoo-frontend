@@ -1,0 +1,32 @@
+.signUpDiv {
+    width: 690px;
+    border: 2px solid #E8E8E8;
+    background-color: rgb(242, 242, 242);
+    border-radius: 6px;
+    height: 400px;
+    padding: 50px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.signUpSideImg{
+    width: 250px;
+}
+
+.c60Div{
+    width: 60%;
+    background-color: rgb(242, 242, 242);
+    border-radius: 6px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.signUpFieldDiv{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

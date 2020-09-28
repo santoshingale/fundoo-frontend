@@ -1,0 +1,46 @@
+.loginDiv {
+    width: 390px;
+    border: 2px solid #E8E8E8;
+    background-color: rgb(242, 242, 242);
+    border-radius: 6px;
+    height: 400px;
+    padding: 50px 30px;
+}
+
+.logo {
+    width: 80px;
+    height: 25px;
+}
+
+.signInText {
+    font-size: 25px;
+    margin-block-start: 10px;
+    margin-block-end: 0;
+}
+
+.createAccountText {
+    text-align: left;
+    cursor: pointer;
+    color: blue;
+}
+
+
+.nextButtonDiv {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.roundedDiv{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 30px;
+    width: 80%;
+    margin: 30px 10%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 5px;
+}
